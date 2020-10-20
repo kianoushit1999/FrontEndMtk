@@ -1,0 +1,14 @@
+
+.header_title{
+    margin: 0 auto;
+    text-align: center
+}
+
+#header_picture{
+    margin: 0 auto;
+    display: block;
+}
+#button{
+    color: whitesmoke;
+    background: #090629;
+}
