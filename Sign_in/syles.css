@@ -1,0 +1,121 @@
+@font-face {
+    src: url("https://fonts.googleapis.com/css?family=Aclonica");
+    font-family: 'Aclonica';
+}
+@font-face {
+    src: url("https://fonts.googleapis.com/css?family=Sofia");
+    font-family: "Sofia";
+}
+body{
+    margin: 0;
+}
+.bg_back{
+    margin-top: 0px;
+    background: lightgray;
+    box-shadow: 1px 2px 2px lightgray;
+    width: 100%;
+    height: auto;
+}
+#left{
+    background: url('background2.jpg') no-repeat;
+    height: 1100px;
+    width: 50%;
+    background-size: 1100px;
+    float: left;
+    padding-right: 0px;
+}
+#right{
+    box-sizing: content-box;
+    float: left;
+    height: 700px;
+    width: 28%;
+    background: #d7d7d7;
+    margin: 200px 200px;
+    border-radius: 40px;
+    box-shadow: #091c09 8px 8px 8px;
+}
+.hiro_one{
+    width: 40%;
+    margin-top: 50px;
+    float: left;
+}
+.hiro_two{
+    width: 40%;
+    margin-top: 50px;
+    float: right;
+}
+.styler{
+    margin: 0px auto;
+    text-align: center;
+    display: block;
+}
+#header_right{
+    font-size: 70px;
+    text-shadow: #091c09 5px 5px 5px;
+    font-family: sofia;
+}
+.label{
+    text-align: left;
+    padding-left: 5px;
+    margin: 15px auto 0px;
+    height: 40px;
+    width: 330px;
+    border-radius: 8px;
+    box-shadow: gray 5px 5px 5px;
+}
+.button{
+    margin-top: 15px;
+    height: 40px;
+    width: 330px;
+    background: #446868;
+    border-radius: 8px;
+    font-family: Aclonica;
+    font-size: 20px;
+    margin-bottom: 10px;
+    box-shadow: gray 5px 5px 5px;
+}
+.font_new{
+    font-family: Aclonica;
+}
+.fa {
+    box-sizing: border-box;
+    font-size: 30px;
+    width: 90px;
+    height: 40px;
+    padding: 12px;
+    text-align: center;
+    vertical-align: middle;
+    text-decoration: none;
+    margin: 55px 9px;
+    border-radius: 8px;
+    box-shadow: gray 5px 5px 5px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-google {
+    background: #dd4b39;
+    color: white;
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
+#author{
+    margin-bottom: 8px;
+    font-family: Sofia;
+    font-size: xx-large;
+    text-shadow: gray 5px 5px 5px;
+}
