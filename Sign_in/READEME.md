@@ -7,7 +7,7 @@ Js and its library and this page is pure HTML and CSS.
 My sign in page is : <br />  <br /> <br />
 ![final page](picture/sign_in.png)<br /> <br /> 
 
-##Information about code 
+## Information about code 
 
 Row|Language that's used | Not used
 -----|-------------------- | ---------
